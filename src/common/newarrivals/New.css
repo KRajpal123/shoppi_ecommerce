@@ -1,0 +1,23 @@
+.heading img{
+    width: 40px;
+    height: 40px;
+}
+.Newarrivals h4{
+    font-weight: 400;
+    padding-top: 5px;
+}
+.Newarrivals span{
+    color: #e94560;
+    font-size: 15px;
+    font-weight: 500;
+}
+.Newarrivals .box .img{
+    max-width: 150px;
+    max-height: 150px;
+    background: #f8768b;
+}
+.Newarrivals .box img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+}
